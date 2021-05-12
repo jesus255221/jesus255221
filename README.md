@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jesus255221
+- 👋 Hi, I’m @jesus255221 Hsieh Lee Hsun from Taiwan
 - 👀 I’m interested in Natural Language Processing and Natural Language Generation
 - 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on Hmmmm...
